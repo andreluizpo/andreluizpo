@@ -12,37 +12,15 @@ Atualmente, estou me dedicando a aprimorar meus conhecimentos em desenvolvimento
 
 ### Principais
 
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+![Tecnologias e Ferramentas - Principais](https://skillicons.dev/icons?i=html,css,js)
 
 ### Já utilizei
 
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo"  />
+![Tecnologias e Ferramentas - Já utilizei](https://skillicons.dev/icons?i=cpp,python,java,php,laravel,mysql,postgresql)
 
 ### Em estudo
 
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript Logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo"  />
+![Tecnologias e Ferramentas - Em estudo](https://skillicons.dev/icons?i=react,ts,nextjs,tailwind)
 
 ## 🖥️ Projetos
 
