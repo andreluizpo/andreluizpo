@@ -31,7 +31,7 @@ Atualmente, estou me dedicando a aprimorar meus conhecimentos em desenvolvimento
                 src="images/weather-app-image.png"
             />
             <p>
-                <a href="https://github.com/andreluizpo/to-do-list"><b>☀️ Weather App</b></a>
+                <a href="https://github.com/andreluizpo/weather-app"><b>☀️ Weather App</b></a>
             </p>
             <p>
                 Aplicação web que permite consultar informações climáticas em tempo real a partir do nome de uma cidade,
